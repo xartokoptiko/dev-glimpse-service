@@ -1,4 +1,4 @@
-package io.devglimpse.resources.gcl
+package io.devglimpse.resourcses.gcl
 
 import io.devglimpse.entities.Article
 import io.devglimpse.repositories.ArticleRepository
